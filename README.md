@@ -14,18 +14,18 @@ I. Supporting Files: These supporting files are sourced in the main files that r
 7) IU.R = function to calculate the empirical power and empirical type I error rate about the intersection-union (I-U) test without finite-sample correction;
 8) IU_corrected.R = function to calculate the empirical power and empirical type I error rate about the I-U test with finite-sample correction.
 
-II. Main Files: These main files are used to reproduce the simulation results and the illustrative plot in the manuscript.
+II. Main Files: These main files reproduce the simulation results and the illustrative plot in the manuscript.
 
 9) Simulation_WebTable1_and_2.R = reproduce simulation results in Web Table 1 and 2 (corresponds to the marginal cluster-level test);
 10) Simulation_WebTable3.R = reproduce simulation results in Web Table 3 (corresponds to the marginal individual-level test);
 11) Simulation_Table3.R = reproduce simulation results in Table 3 (corresponds to the interaction test);
 12) Simulation_WebTable4_and_5.R = reproduce simulation results in Web Table 4 and 5 (corresponds to the joint test);
 13) Simulation_WebTable6_and_Table4.R = reproduce simulation results in Web Table 6 and Table 4 (corresponds to the I-U test);
-14) Application_Figure1.R = reproduce the illustrative plot in the application part, Figure 1;
+14) Application_Figure1.R = reproduce the illustrative plot in the application part, Figure 1.
 
 III. Software 
 
-Analyses were conducted with R, version 3.6.2 (https://www.r-project.org/)
+Analyses were conducted with R, version 3.6.2 (https://www.r-project.org/).
 The calculations used R packages nlme (version 3.1-143) and Matrix (version 1.2-18).
 
 IV. R commands for the installation of R packages 
