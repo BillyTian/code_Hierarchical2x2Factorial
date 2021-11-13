@@ -23,10 +23,10 @@ II. Main Files: These main files are used to reproduce the simulation results an
 14) Simulation_WT2_WT16_WT23 (CE_Z).R = reproduce simulation results in Web Table 2, 16, and 23;
 15) Simulation_WT4_WT19_WT26 (NE_Z).R = reproduce simulation results in Web Table 4, 19, and 26;
 16) Simulation_WT6_WT7 (CE_joint).R = reproduce simulation results in Web Table 6 and 7;
-16) Simulation_WT8_WT9 (CE_IU).R = reproduce simulation results in Web Table 8 and 9;
-16) Simulation_WT10_WT11 (NE_joint).R = reproduce simulation results in Web Table 10 and 11;
-16) Simulation_WT12_WT13 (NE_IU).R = reproduce simulation results in Web Table 12 and 13;
-16) Application_Figure1.R = reproduce the illustrative plot in the application part, Figure 1;
+17) Simulation_WT8_WT9 (CE_IU).R = reproduce simulation results in Web Table 8 and 9;
+18) Simulation_WT10_WT11 (NE_joint).R = reproduce simulation results in Web Table 10 and 11;
+19) Simulation_WT12_WT13 (NE_IU).R = reproduce simulation results in Web Table 12 and 13;
+20) Application_Figure1.R = reproduce the illustrative plot in the application part, Figure 1;
 
 III. Software 
 
